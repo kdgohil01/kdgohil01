@@ -5,9 +5,7 @@
 
 🚀 I’ve built apps like MyNotes Library and a Motivational Quotes App — focusing on UI/UX, Firebase, and real-world functionality.
 
-📱 I love creating smooth, user-friendly apps using HTML, CSS, JavaScript, Kotlin, and Firebase — all with zero cost tools!
-
-🎯 Currently exploring Android notifications, Firestore, and project deployment via GitHub and Vercel.
+📱 I love creating smooth, user-friendly apps using HTML, CSS, JavaScript, Kotlin, and Firebase.
 
 📂 Check out my work and feel free to collaborate!
 <!--
