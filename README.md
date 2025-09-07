@@ -1,13 +1,28 @@
  
 👋 Hi, I’m Karmadeepsinh Gohil
 
-💻 I’m a passionate learner and aspiring developer diving deep into Web and Android App Development.
+🚀 A curious learner, builder, and developer who loves experimenting with **web apps, IoT projects, and Android apps**.  
+I enjoy creating projects that are **practical, polished, and fun**, while constantly exploring new technologies.  
 
-🚀 I’ve built apps like MyNotes Library and a Motivational Quotes App — focusing on UI/UX, Firebase, and real-world functionality.
+## 💻 Tech Stack
 
-📱 I love creating smooth, user-friendly apps using HTML, CSS, JavaScript, Kotlin, and Firebase.
+-> 🌐 Frontend Development
+- React.js ⚛️ | Tailwind CSS 🎨 | JavaScript (ES6+) | HTML5 | CSS3  
 
+-> 🔥 Backend & Database
+- Firebase (Auth, Firestore, Realtime DB, Hosting)  
+- Node.js (basics)
+  
+-> 🛠 Tools & Platforms
+- Git & GitHub | VS Code | Vercel
+
+## 🎯 Goals
+- Build **high-quality, production-ready apps** with smooth UI/UX.  
+- Explore **AI + IoT integration** in real-world solutions.  
+- Contribute to **open-source** and participate in hackathons.
+  
 📂 Check out my work and feel free to collaborate!
+  
 <!--
 **kdgohil01/kdgohil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
