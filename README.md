@@ -27,6 +27,14 @@ I enjoy creating projects that are **practical, polished, and fun**, while const
 ## 📈 GitHub Summary
 ![KD's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgohil01&theme=github)
 
-  
+## 🔥 Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=kdgohil01&label=Profile%20Views&color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kdgohil01?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/kdgohil01?style=for-the-badge)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=kdgohil01&label=Visitors&countColor=%23263759)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kdgohil01&theme=onedark)
+
 ## 📂 Check out my work and feel free to collaborate!
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karmadeepsinh-gohil-31484230a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0zcCYkt8RnOi1%2FbNxZSItQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karmdeepgohil16@gmail.com)  
