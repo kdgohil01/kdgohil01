@@ -20,23 +20,16 @@ I enjoy creating projects that are **practical, polished, and fun**, while const
 - Build **high-quality, production-ready apps** with smooth UI/UX.  
 - Explore **AI + IoT integration** in real-world solutions.  
 - Contribute to **open-source** and participate in hackathons.
+
+  ## 📊 GitHub Contribution Graph
+![KD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kdgohil01&theme=react-dark)
+
+## 🔥 GitHub Streak
+![KD's GitHub Streak](https://streak-stats.demolab.com/?user=kdgohil01&theme=dark)
+
+## 📈 GitHub Summary
+![KD's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgohil01&theme=github)
+
   
 📂 Check out my work and feel free to collaborate!
   
-<!--
-**kdgohil01/kdgohil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-🌐 Portfolio Website
-📬 Let’s connect and build something awesome!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
