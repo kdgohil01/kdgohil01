@@ -11,7 +11,7 @@ I enjoy creating projects that are **practical, polished, and fun**, while const
 
 -> 🔥 Backend & Database
 - Firebase (Auth, Firestore, Realtime DB, Hosting)  
-- Node.js (basics)
+- Node.js
   
 -> 🛠 Tools & Platforms
 - Git & GitHub | VS Code | Vercel
@@ -24,13 +24,9 @@ I enjoy creating projects that are **practical, polished, and fun**, while const
   ## 📊 GitHub Contribution Graph
 ![KD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kdgohil01&theme=react-dark)
 
-## 🔥 GitHub Streak
-![KD's GitHub Streak](https://streak-stats.demolab.com/?user=kdgohil01&theme=dark)
-
-
 ## 📈 GitHub Summary
 ![KD's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgohil01&theme=github)
 
   
-📂 Check out my work and feel free to collaborate!
+## 📂 Check out my work and feel free to collaborate!
   
