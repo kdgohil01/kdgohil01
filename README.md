@@ -24,8 +24,6 @@ I enjoy creating projects that are **practical, polished, and fun**, while const
   ## 📊 GitHub Contribution Graph
 ![KD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kdgohil01&theme=react-dark)
 
-## 📈 GitHub Summary
-![KD's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdgohil01&theme=github)
 
 ## 🔥 Badges
 
