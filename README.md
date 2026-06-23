@@ -1,34 +1,88 @@
- 
-👋 Hi, I’m Karmadeepsinh Gohil
+# 👋 Hi, I’m Karmadeepsinh Gohil
 
-🚀 A curious learner, builder, and developer who loves experimenting with web apps, IoT projects, and Android apps.  
-I enjoy creating projects that are practical, polished, and fun, while constantly exploring new technologies.  
+<p align="center">
+  <a href="https://github.com/kdgohil01"><img alt="Profile header" src="https://raw.githubusercontent.com/kdgohil01/kdgohil01/main/profile-header.png" /></a>
+</p>
 
-## 💻 Tech Stack
+A curious learner, builder, and developer who loves experimenting with web apps, IoT projects, and Android apps. I enjoy creating projects that are practical, polished, and fun, while constantly exploring new technologies.
 
--> 🌐 Frontend Development
-- React.js ⚛️ | Tailwind CSS 🎨 | JavaScript (ES6+) | HTML5 | CSS3  
+---
 
--> 🔥 Backend & Database
-- Firebase (Auth, Firestore, Realtime DB, Hosting)  
-- Node.js
-  
--> 🛠 Tools & Platforms
-- Git & GitHub | VS Code | Vercel
+## 💻 Tech Snapshot
+
+- Frontend: React.js, Tailwind CSS, JavaScript (ES6+)
+- Backend & Database: Firebase (Auth, Firestore, Realtime DB, Hosting), Node.js
+- Tools & Platforms: Git & GitHub, VS Code, Vercel
+
+---
+
+## 🔥 Live GitHub Stats
+
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kdgohil01&show_icons=true&theme=radical" alt="kdgohil01's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdgohil01&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kdgohil01&theme=react-dark&area=true" alt="Contribution graph" />
+</p>
+
+<!-- Streak & Trophy -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdgohil01&theme=dark" alt="GitHub streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kdgohil01&theme=radical&row=1&column=5" alt="Trophies" />
+</p>
+
+---
+
+## 📊 Interactive Charts (Live SVGs)
+
+I added a few dynamic charts that update automatically from simple data sources.
+
+1) Languages distribution (by repository primary-language)
+
+<p align="center">
+  <img alt="Languages distribution" src="https://quickchart.io/chart?c={type:'pie',data:{labels:['TypeScript','JavaScript','Python','HTML','Kotlin','Other'],datasets:[{data:[5,2,1,1,1,3]}]},options:{plugins:{legend:{position:'bottom'}}}}&format=svg" />
+</p>
+
+2) Stars per top repositories
+
+<p align="center">
+  <img alt="Top repo stars" src="https://quickchart.io/chart?c={type:'bar',data:{labels:['crypto-stego-lab','i-track','other repos'],datasets:[{label:'Stars',data:[2,1,0],backgroundColor:['#2b8be6','#f6c60e','#6a737d']}]},options:{legend:{display:false},scales:{y:{beginAtZero:true}}}}&format=svg" />
+</p>
+
+Notes:
+- The language-distribution values were inferred from public repo primary languages and rounded at the repo level (TypeScript: 5, JavaScript: 2, Python: 1, HTML: 1, Kotlin: 1, Other/unknown: 3).
+- Star counts come from public repo stargazers (total visible stars: 3 at time of update).
+
+---
 
 ## 🎯 Goals
-- Build high-quality, production-ready apps with smooth UI/UX.  
-- Explore AI + IoT integration in real-world solutions.  
+
+- Build high-quality, production-ready apps with smooth UI/UX.
+- Explore AI + IoT integration in real-world solutions.
 - Contribute to open-source and participate in hackathons.
 
-## 🔥 Badges
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=kdgohil01&label=Profile%20Views&color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kdgohil01?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/kdgohil01?style=for-the-badge)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=kdgohil01&label=Visitors&countColor=%23263759)
+## 📂 Projects (selected)
 
+- crypto-stego-lab — TypeScript · steganography / crypto experiments (2 ⭐)
+- i-track — (1 ⭐)
+- Deep-shield — Python · research/ML work
+- otp-2.0 — JavaScript
 
-## 📂 Check out my work and feel free to collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karmadeepsinh-gohil-31484230a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0zcCYkt8RnOi1%2FbNxZSItQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karmdeepgohil16@gmail.com)  
+(See the full list on my GitHub: https://github.com/kdgohil01?tab=repositories)
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/karmadeepsinh-gohil-31484230a
+- Email: karmdeepgohil16@gmail.com
+
+---
+
+*README last updated with dynamic stats and charts.*
