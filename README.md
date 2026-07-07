@@ -64,24 +64,6 @@ Click on the domains below to explore my technical ecosystem.
 </details>
 
 
-## 🔥 Live GitHub Stats & Dynamic Analytics
-
-The widgets below query the GitHub API directly. They update automatically in real-time whenever you push code, earn stars, or make commits.
-
-<!-- GitHub Readme Stats & Real-time Language Breakdown -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdgohil01&show_icons=true&theme=radical&commits_year=2026" alt="Karmadeepsinh's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdgohil01&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages Dynamic Breakdown" width="48%" />
-</p>
-
-<!-- Streak Counter -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdgohil01&theme=dark" alt="GitHub streak" width="97%" />
-</p>
-
----
-
-
 ## 🌱 Currently Exploring
 
 * 🤖 **AI Agents & Personal AI Assistants** – Deepening workflow automation capabilities.
